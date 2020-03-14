@@ -33,3 +33,4 @@ housing["population_per_household"] = housing["population"]/housing["households"
 #Look at the correlation matrix
 housing_corr = housing.corr()
 print(corr_matrix["median_house_value"].sort_values(ascending=False))
+# I am just adding some stuff to check git
