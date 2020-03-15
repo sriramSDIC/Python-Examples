@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3e9292c9-3add-447d-a763-a26bf9b6d14b" name="Default Changelist" comment="" />
+    <list default="true" id="3e9292c9-3add-447d-a763-a26bf9b6d14b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Examples.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Examples.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ML_book_practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/ML_book_practice.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +20,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1XDXUb6uSkOUTop52MXmffGcuc2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,10 +32,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
-    <configuration name="plot_timeseries" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ML_book_practice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Examples" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -37,7 +48,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/plot_timeseries.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ML_book_practice.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -48,7 +59,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.plot_timeseries" />
+        <item itemvalue="Python.ML_book_practice" />
       </list>
     </recent_temporary>
   </component>
@@ -66,37 +77,52 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="184" y="95" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580581736871">
-      <screen x="0" y="23" width="1440" height="822" />
+    <state x="1244" y="322" width="800" height="717" key="#Intentions" timestamp="1584280273054">
+      <screen x="0" y="23" width="2560" height="1333" />
+    </state>
+    <state x="1244" y="322" width="800" height="717" key="#Intentions/0.23.2560.1333@0.23.2560.1333" timestamp="1584280273054" />
+    <state x="327" y="140" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584279265180">
+      <screen x="0" y="23" width="2560" height="1333" />
     </state>
     <state x="184" y="95" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.822@0.23.1440.822" timestamp="1580581736871" />
+    <state x="327" y="140" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.2560.1333@0.23.2560.1333" timestamp="1584279265180" />
     <state x="468" y="276" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1580586927034">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
     <state x="468" y="276" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.23.1440.822@0.23.1440.822" timestamp="1580586927034" />
-    <state x="524" y="366" key="FileChooserDialogImpl" timestamp="1580582200110">
-      <screen x="0" y="23" width="1440" height="822" />
+    <state x="932" y="579" key="FileChooserDialogImpl" timestamp="1584279667432">
+      <screen x="0" y="23" width="2560" height="1333" />
     </state>
     <state x="524" y="366" key="FileChooserDialogImpl/0.23.1440.822@0.23.1440.822" timestamp="1580582200110" />
-    <state width="1379" height="326" key="GridCell.Tab.0.bottom" timestamp="1580588674943">
-      <screen x="0" y="23" width="1440" height="822" />
+    <state x="932" y="579" key="FileChooserDialogImpl/0.23.2560.1333@0.23.2560.1333" timestamp="1584279667432" />
+    <state width="1379" height="271" key="GridCell.Tab.0.bottom" timestamp="1584280788286">
+      <screen x="0" y="23" width="2560" height="1333" />
     </state>
     <state width="1379" height="326" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1580588674943" />
-    <state width="1379" height="326" key="GridCell.Tab.0.center" timestamp="1580588674941">
-      <screen x="0" y="23" width="1440" height="822" />
+    <state width="1379" height="271" key="GridCell.Tab.0.bottom/0.23.2560.1333@0.23.2560.1333" timestamp="1584280788286" />
+    <state width="1379" height="271" key="GridCell.Tab.0.center" timestamp="1584280788285">
+      <screen x="0" y="23" width="2560" height="1333" />
     </state>
     <state width="1379" height="326" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1580588674941" />
-    <state width="1379" height="326" key="GridCell.Tab.0.left" timestamp="1580588674941">
-      <screen x="0" y="23" width="1440" height="822" />
+    <state width="1379" height="271" key="GridCell.Tab.0.center/0.23.2560.1333@0.23.2560.1333" timestamp="1584280788285" />
+    <state width="1379" height="271" key="GridCell.Tab.0.left" timestamp="1584280788284">
+      <screen x="0" y="23" width="2560" height="1333" />
     </state>
     <state width="1379" height="326" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1580588674941" />
-    <state width="1379" height="326" key="GridCell.Tab.0.right" timestamp="1580588674942">
-      <screen x="0" y="23" width="1440" height="822" />
+    <state width="1379" height="271" key="GridCell.Tab.0.left/0.23.2560.1333@0.23.2560.1333" timestamp="1584280788284" />
+    <state width="1379" height="271" key="GridCell.Tab.0.right" timestamp="1584280788285">
+      <screen x="0" y="23" width="2560" height="1333" />
     </state>
     <state width="1379" height="326" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1580588674942" />
-    <state x="230" y="72" key="SettingsEditor" timestamp="1580588467954">
-      <screen x="0" y="23" width="1440" height="822" />
+    <state width="1379" height="271" key="GridCell.Tab.0.right/0.23.2560.1333@0.23.2560.1333" timestamp="1584280788285" />
+    <state x="700" y="549" key="SettingsEditor" timestamp="1584280195180">
+      <screen x="0" y="23" width="2560" height="1333" />
     </state>
     <state x="230" y="72" key="SettingsEditor/0.23.1440.822@0.23.1440.822" timestamp="1580588467954" />
+    <state x="700" y="549" key="SettingsEditor/0.23.2560.1333@0.23.2560.1333" timestamp="1584280195180" />
+    <state x="959" y="521" key="com.intellij.ide.util.TipDialog" timestamp="1584279605790">
+      <screen x="0" y="23" width="2560" height="1333" />
+    </state>
+    <state x="959" y="521" key="com.intellij.ide.util.TipDialog/0.23.2560.1333@0.23.2560.1333" timestamp="1584279605790" />
   </component>
 </project>
