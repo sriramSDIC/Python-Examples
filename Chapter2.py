@@ -90,31 +90,4 @@ final_predictions = forest_reg.predict(X_test_prepared)
 final_mse = mean_squared_error(Y_test, final_predictions)
 final_rmse = np.sqrt(final_mse)
 print(final_rmse)
-#
-# cat_encoder = OneHotEncoder()
-# housing_cat_1hot = cat_encoder.fit_transform(housing_cat)
-# print(cat_encoder.categories_)
-# housing_cat_array = housing_cat_1hot.toarray()
-# housing_cat_num = pd.DataFrame(housing_cat_array)
-# #Concatenate the numerical and categorical data frames
-# housing_prepared = pd.concat([housing_num, housing_cat_num], axis=1)
-# print(housing_prepared.head(10))
-# # Plot the histogram
-# housing.hist(bins=50, figsize=(20, 15))
-# housing.hist(column='median_income', bins=50, figsize=(20, 15))
-# plt.show()
-
-# print(housing.info())
-# # Correlation plots
-# housing.plot(kind="scatter", x="longitude", y="latitude",alpha=0.4, s=housing["population"]/100, label="population", figsize=(10,7), c=housing["median_house_value"], cmap=plt.get_cmap("jet"), colorbar=True,)
-# plt.show()
-# # Adding new attributes
-# housing["rooms_per_household"] = housing["total_rooms"]/housing["households"]
-# housing["bedrooms_per_room"] = housing["total_bedrooms"]/housing["total_rooms"]
-# housing["population_per_household"] = housing["population"]/housing["households"]
-# # Look at the correlation matrix
-# corr_matrix = housing.corr()
-# print(corr_matrix["median_house_value"].sort_values(ascending=False))
-#
-
-
+#Beginning of chapter 3
